@@ -1,0 +1,2 @@
+This is second file.
+This file is added in feature/merge branch.
