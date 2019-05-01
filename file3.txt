@@ -1,4 +1,4 @@
-Hii I'm third file.
+Hii I'm third file. Changes done in master branch.
 You added me in feature_a branch.
 
 Added line in feature_a branch.
