@@ -1,5 +1,5 @@
 This is second file. Changes in feature_a branch.
-This file is added in feature/merge branch.
+This file is added in feature/merge branch. Added sentence in Master branch.
 I want to check stash cmd.
 
 
