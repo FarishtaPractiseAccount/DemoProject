@@ -4,3 +4,4 @@ I want to check stash cmd.
 
 
 Adding line in master branch. In 6 line to avoid conflicts.
+Added this line in feature_a branch.
